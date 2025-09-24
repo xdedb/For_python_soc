@@ -1,1 +1,7 @@
-# For_python_soc
+## 训练配置
+
+使用resnet50训练50epoch，lr设置为0.01,使用AdamW作为优化器，BS设置为512，并采用RandomCrop和随机翻转进行数据增强（实际上由于训练集和测试集一样，特征增强会降低最终准确度）模型并没有收敛，但是达到通过要求
+
+## 实际训练结果
+
+![image-20250924173031862](C:\Users\16544\AppData\Roaming\Typora\typora-user-images\image-20250924173031862.png)
