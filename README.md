@@ -4,4 +4,4 @@
 
 ## 实际训练结果
 
-![image-20250924173031862](C:\Users\16544\AppData\Roaming\Typora\typora-user-images\image-20250924173031862.png)
+![image-20250924173031862](./result.png)
